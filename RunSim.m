@@ -10,3 +10,7 @@ trajParameters.jerk = 800;
 trajParameters.snap = 64000;
 
 sim('main',[0 0.24]);
+
+
+
+jijiininnd

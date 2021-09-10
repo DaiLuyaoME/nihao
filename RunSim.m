@@ -18,4 +18,8 @@ jijiininnd
 
 
 asdfasdfadfasdfasdasfasdasdfa
+<<<<<<< HEAD
 ddddd
+=======
+nihao
+>>>>>>> dev
